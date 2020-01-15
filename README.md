@@ -1,2 +1,2 @@
 # Color-Game
-To view the game chrisrosana.github.io/colorGame.html
+To view the game http://chrisrosana.github.io/colorGame.html
